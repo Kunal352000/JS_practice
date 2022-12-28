@@ -1,0 +1,1 @@
+// Create a Function and return the index location of an element from a given array. First argument is the array you'd like to search and the second one is the element (either string/number) to look for.
