@@ -9,4 +9,4 @@
 function firstWordCapital(str1){
     return str1.charAt(0).toUpperCase()+str1.slice(1)
 }
-console.log(firstWordCapital("welcome to the javascript"))
+console.log(firstWordCapital("welcome to the javascripte"))
